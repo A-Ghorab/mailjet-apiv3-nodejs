@@ -1,5 +1,5 @@
 {
-  "name": "ag-node-mailjet",
+  "name": "node-mailjet-ag",
   "version": "6.0.6",
   "main": "./dist/mailjet.node.js",
   "browser": "./dist/mailjet.web.js",
