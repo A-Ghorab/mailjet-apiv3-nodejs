@@ -1,3 +1,5 @@
+Add Fix for [CVE-2024-39338](https://github.com/advisories/GHSA-8hc4-vh64-cxmj)
+
 [mailjet]: http://www.mailjet.com
 [doc]: http://dev.mailjet.com/guides/?javascript#
 [eventemitter]: https://nodejs.org/api/events.html
@@ -10,7 +12,7 @@
 # Mailjet JS
 
 [![Build Status](https://travis-ci.org/mailjet/mailjet-apiv3-nodejs.svg?branch=master)](https://travis-ci.org/mailjet/mailjet-apiv3-nodejs)
-![Current Version](https://img.shields.io/badge/version-6.0.5-green.svg)
+![Current Version](https://img.shields.io/badge/version-6.0.6-green.svg)
 
 ## Overview
 

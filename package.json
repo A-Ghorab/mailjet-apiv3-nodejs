@@ -1,6 +1,6 @@
 {
-  "name": "node-mailjet",
-  "version": "6.0.5",
+  "name": "ag-node-mailjet",
+  "version": "6.0.6",
   "main": "./dist/mailjet.node.js",
   "browser": "./dist/mailjet.web.js",
   "types": "./dist/declarations/index.d.ts",
@@ -109,13 +109,13 @@
     "webpack-cli": "^4.9.2",
     "webpack-merge": "^5.8.0"
   },
-  "homepage": "https://github.com/mailjet/mailjet-apiv3-nodejs#readme",
+  "homepage": "https://github.com/A-Ghorab/mailjet-apiv3-nodejs#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mailjet/mailjet-apiv3-nodejs.git"
+    "url": "git+https://github.com/A-Ghorab/mailjet-apiv3-nodejs.git"
   },
   "bugs": {
-    "url": "https://github.com/mailjet/mailjet-apiv3-nodejs/issues"
+    "url": "https://github.com/A-Ghorab/mailjet-apiv3-nodejs/issues"
   },
   "contributors": [
     "Arnaud Breton <arnaud@mailjet.com> (https://github.com/arnaudbreton)",
